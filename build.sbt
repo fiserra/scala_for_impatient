@@ -1,4 +1,4 @@
-name := "scala_for_impatient"
+name := "scala_for_the_impatient"
 
 version := "1.0"
 
